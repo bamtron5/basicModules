@@ -1,0 +1,21 @@
+{
+  "name": "basic_modules",
+  "authors": [
+    "bamtron5 <brandon@brandonam.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "^1.6.4",
+    "angular-ui-router": "^0.4.2"
+  }
+}
